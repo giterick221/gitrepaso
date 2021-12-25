@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Plantilla inicial</h1>
+    <h1>Plantilla inicial ESTILO</h1>
     <img src="foto.jpg" alt="">
 </body>
 </html>
