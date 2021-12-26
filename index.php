@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Plantilla inicial CONFLICTO</h1>
+    <h1>Plantilla inicial CONFLICTO nombre </h1>
     <img src="foto.jpg" alt="">
 </body>
 </html>
