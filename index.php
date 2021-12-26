@@ -9,7 +9,6 @@
 </head>
 <body>
     <h1>Plantilla inicial CONFLICTO</h1>
-    <h2>EJEMPLO main</h2>
     <img src="foto.jpg" alt="">
 </body>
 </html>
