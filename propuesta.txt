@@ -1,0 +1,1 @@
+Cambiar el css de ubicacion, comprimir imagenes.
